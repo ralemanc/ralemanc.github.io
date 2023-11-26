@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/rafa-avatar.png"
   bio    : "Computer Engineer. Java enthusiastic."
   links:
     - label: "Website"
